@@ -27,8 +27,8 @@ const songs = [
       genre: "Rock",
     },
     {
-      title: "Escape (The Piña Colada Song)",
-      artist: "Rupert Holmes",
+      title: "everybody",
+      artist: "Backstreet Boys",
       genre: "Pop",
     },
     {
@@ -42,18 +42,18 @@ const songs = [
       genre: "R&B",
     },
     {
-      title: "Come and Get Your Love",
-      artist: "Redbone",
+      title: "Weekend",
+      artist: "Parlatones",
       genre: "Rock",
     },
     {
-      title: "I'm Not in Love",
-      artist: "10cc",
+      title: "Harder",
+      artist: "Tyler",
       genre: "Pop",
     },
     {
-      title: "Fooled Around and Fell in Love",
-      artist: "Elvin Bishop",
+      title: "In the end",
+      artist: "Linkin Park",
       genre: "Rock",
     },
   ];

@@ -56,6 +56,21 @@ const songs = [
       artist: "Linkin Park",
       genre: "Rock",
     },
+    {
+      title: "Numb",
+      artist: "Linkin Park",
+      genre: "Rock",
+    },
+    {
+      title: "Collide",
+      artist: "Lady Zamar",
+      genre: "R&B",
+    },
+    {
+      title: "Ten",
+      artist: "Fred Again",
+      genre: "Pop",
+    },
   ];
   
 
